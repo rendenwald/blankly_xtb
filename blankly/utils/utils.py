@@ -371,7 +371,7 @@ def get_quote_asset(symbol):
         return split[1]
     else:
         # This could go wrong
-        return 'USD'
+        return 'PLN'
 
 
 def rename_to(keys_array, renaming_dictionary):

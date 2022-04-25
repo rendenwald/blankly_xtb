@@ -26,6 +26,7 @@ from blankly.exchanges.interfaces.ftx.ftx import FTX
 from blankly.exchanges.interfaces.okx.okx import Okx
 from blankly.exchanges.interfaces.paper_trade.paper_trade import PaperTrade
 from blankly.exchanges.interfaces.keyless.keyless import KeylessExchange
+from blankly.exchanges.interfaces.xtb.xtb import XTB
 from blankly.frameworks.strategy import Strategy as Strategy
 from blankly.frameworks.model.model import Model as Model
 from blankly.frameworks.strategy import StrategyState as StrategyState

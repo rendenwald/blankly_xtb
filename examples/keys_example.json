@@ -42,5 +42,12 @@
             "API_PASS": "*****",
             "sandbox": true
         }
+    },
+    "xtb": {
+        "portfolio": {
+            "ACCOUNT_ID": "************************",
+            "PASSWORD": "************************************",
+            "sandbox": true
+        }
     }
 }
